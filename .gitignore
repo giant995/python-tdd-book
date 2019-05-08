@@ -1,0 +1,4 @@
+db.sqllite3
+geckodriver.log
+__pycache__
+*.pyc
